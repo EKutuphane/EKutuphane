@@ -7,17 +7,17 @@ using System.Threading.Tasks;
 
 namespace EKutuphane.Core.Abstract
 {
-    public class Book
+    public class Book 
     {
         public string BookName { get; set; }   
         public ushort PageNumber { get; set; }
         public AuthorInfo AuthorInfo { get; set; }
         public DateTime DateTime { get; set; }
-        public string MyProperty { get; set; }
-        public Customer? Customer { get; set; }
-        public int? CustomerId { get; set; }
+        public bool Status { get; set; }  // kitabýn kiralýk durumu hakkýnda bilgi olusturacak 
+        public Member? Member { get; set; }
+        public int? MemberId { get; set; }
         public BookCategories Categories { get; set; }
-
+       
     }
 
 }
