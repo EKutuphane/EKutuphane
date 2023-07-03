@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EKutuphane.Core", "EKutuphane.Core.csproj", "{B0BEFE5B-7CD4-40D4-BB38-BA9055CCF8E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{6725858B-4FDA-4C35-8573-29E0E55EEC10}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{D937A685-E707-4CC1-B69C-6783B7858CB4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{9863B95E-6958-40A0-A87C-17F9FE3DE420}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0BEFE5B-7CD4-40D4-BB38-BA9055CCF8E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0BEFE5B-7CD4-40D4-BB38-BA9055CCF8E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0BEFE5B-7CD4-40D4-BB38-BA9055CCF8E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0BEFE5B-7CD4-40D4-BB38-BA9055CCF8E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B0BEFE5B-7CD4-40D4-BB38-BA9055CCF8E4} = {6725858B-4FDA-4C35-8573-29E0E55EEC10}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5267EA8F-C499-4E29-A828-8D6A3FAC44B7}
+	EndGlobalSection
+EndGlobal
