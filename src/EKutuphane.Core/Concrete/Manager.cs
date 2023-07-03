@@ -12,9 +12,6 @@ namespace EKutuphane.Core.Abstract
         public int Password { get; set; }
 
         public string UserName { get; set; }
-        public string FirstName { get; set; }   
-
-
 
     }
 

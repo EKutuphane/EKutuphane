@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EKutuphane.Core.Abstract
 {
-    public class BaseInfos : BaseEntity
+    public abstract class BaseInfos : BaseEntity
     {
         public string Name { get; set; }
         public string Surname { get; set; }

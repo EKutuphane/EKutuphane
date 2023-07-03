@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EKutuphane.Core.Abstract
 {
-    public class AuthorInfo :BaseAuthorInfos
+    public class AuthorInfo : BaseAuthorInfos
     {
        
     }
