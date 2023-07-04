@@ -6,7 +6,7 @@ Kütüphane kayıt ve kiralama sistemi
 -----------------------------------
 Yazarlar :
 ----------------------
-Core Katmanı
+Core Katmanı : 
 Emre YAMAN, 
 Yaşar Can ERDAL, 
 Hasan GÖKALP, 
